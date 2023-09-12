@@ -20,16 +20,16 @@ With our deep expertise and commitment to excellence, we'll work with you every 
 
 ### **TokenFlow Resources and Documentation**
 
-Supported Blockchains: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Blockchains.pdf\
-Supported Smart Contract Types: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Smart_Contract_Types.pdf\
-Smart Contracts Developed by TokenFlow: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Smart_Contracts_Developed_by_TokenFlow.pdf\
-TokenFlow Case Studies: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/TokenFlow_Case_Studies.pdf
+- Supported Blockchains: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Blockchains.pdf
+- Supported Smart Contract Types: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Smart_Contract_Types.pdf
+- Smart Contracts Developed by TokenFlow: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Smart_Contracts_Developed_by_TokenFlow.pdf
+- TokenFlow Case Studies: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/TokenFlow_Case_Studies.pdf
 
 ### **Connect With Us:**
 
-Website: https://tokenflow.ai\
-Twitter: https://twitter.com/TokenFlow_ai\
-LinkedIn: https://linkedin.com/company/tokenflow-ai\
-Telegram: https://t.me/TokenFlow_ai\
-Email: [office@tokenflow.ai](mailto:office@tokenflow.ai)\
-Calendly: https://calendly.com/angela-bobic
+- Website: https://tokenflow.ai
+- Twitter: https://twitter.com/TokenFlow_ai
+- LinkedIn: https://linkedin.com/company/tokenflow-ai
+- Telegram: https://t.me/TokenFlow_ai
+- Email: [office@tokenflow.ai](mailto:office@tokenflow.ai)
+- Calendly: https://calendly.com/angela-bobic
