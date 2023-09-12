@@ -1,10 +1,10 @@
-## TokenFlow: Your Go-To Smart Contract Development Agency
+## **TokenFlow: Your Go-To Smart Contract Development Agency**
 
 At TokenFlow, we specialize in developing custom smart contracts tailored to your project's needs and requirements **turning your vision into a reality.**
 
 With our deep expertise and commitment to excellence, we'll work with you every step of the way. **If you can imagine it, we can build it!**
 
-### We provide full-service smart contract development with benefits which include:
+### **We provide full-service smart contract development with benefits which include:**
 
 ✔ 100% test coverage
 
@@ -18,7 +18,14 @@ With our deep expertise and commitment to excellence, we'll work with you every 
 
 ✔ Free code revision in case of any issues
 
-### Connect With Us:
+### **TokenFlow Resources and Documentation**
+
+Supported Blockchains: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Blockchains.pdf\
+Supported Smart Contract Types: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Smart_Contract_Types.pdf\
+Smart Contracts Developed by TokenFlow: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Smart_Contracts_Developed_by_TokenFlow.pdf\
+TokenFlow Case Studies: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/TokenFlow_Case_Studies.pdf
+
+### **Connect With Us:**
 
 Website: https://tokenflow.ai\
 Twitter: https://twitter.com/TokenFlow_ai\
