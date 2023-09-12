@@ -18,7 +18,7 @@ With our deep expertise and commitment to excellence, we'll work with you every 
 
 ✔ Free code revision in case of any issues
 
-### **TokenFlow Resources and Documentation**
+### **TokenFlow Resources and Documentation:**
 
 - Supported Blockchains: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Blockchains.pdf
 - Supported Smart Contract Types: https://github.com/TokenFlow-ai/tokenflow/blob/main/assets/Supported_Smart_Contract_Types.pdf
