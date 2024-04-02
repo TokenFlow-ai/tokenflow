@@ -1,6 +1,6 @@
-## **TokenFlow: Your Go-To Smart Contract Development Agency**
+## **Turning Vision into Reality: 0 to 1 End-to-End Development Solutions**
 
-At TokenFlow, we specialize in developing custom smart contracts tailored to your project's needs and requirements **turning your vision into a reality.**
+At TokenFlow, we specialize in developing custom Dapps, web3 and blockchain solutions tailored to your project's needs and requirements **turning your vision into reality.**
 
 With our deep expertise and commitment to excellence, we'll work with you every step of the way. **If you can imagine it, we can build it!**
 
@@ -31,5 +31,5 @@ With our deep expertise and commitment to excellence, we'll work with you every 
 - Twitter: https://twitter.com/TokenFlow_ai
 - LinkedIn: https://linkedin.com/company/tokenflow-ai
 - Telegram: https://t.me/TokenFlow_ai
-- Email: [office@tokenflow.ai](mailto:office@tokenflow.ai)
-- Calendly: https://calendly.com/angela-bobic
+- Email: [tokenflow@proton.me](mailto:tokenflow@proton.me)
+- Calendly: https://calendly.com/tokenflow-ai/30min
